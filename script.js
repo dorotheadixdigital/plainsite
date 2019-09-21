@@ -100,10 +100,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     `<div class="footer">
 
-    <br>
-    <br>
-
-
+    
+    <div class="spacemaker">
+<br>
+<br>
     
     <div class="mdc-tab-bar mdc-tab-bar2 mdc-top-app-bar--fixed" role="tablist">
 
@@ -134,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
         </div>
     </div>
     
+</div>
 </div>`
 
 })
