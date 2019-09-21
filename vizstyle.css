@@ -1,0 +1,201 @@
+
+
+
+.mdc-typography {
+    --mdc-theme-primary: #757575;
+    margin: 0rem 0rem 0rem 0rem ;
+
+}
+
+
+.mdc-tab{
+    background-color: #757575 !important; 
+    
+}
+
+.mdc-tab-bar2{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+ 
+    
+}
+
+.mdc-tab2{
+    background-color:#9E9E9E !important; 
+
+}
+
+
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+.background{
+    background-image: url(images/givenwall.jpeg);
+    background-size: cover;
+    /*background-repeat: no-repeat; */
+}
+
+
+.demo-card {
+    margin: 20pt; 
+    z-index: 10;
+    box-shadow: #ffffff;
+    
+
+}
+
+.logostyle {
+    margin: 1rem 1rem 1rem 1rem;
+    align-items: center;
+    justify-content: center;
+    display: in-line;
+}
+
+
+
+.mdc-card {
+    background-color: #424242;
+    z-index: 0;
+}
+
+.mdc-typography--headline1 {
+    margin: 1rem 1rem 1rem 1rem ;
+    text-align: center;
+
+}
+
+.mdc-typography--headline2 {
+    margin: 1rem 1rem 1rem 1rem ;
+    text-align: center;
+}
+
+.mdc-typography--headline3 {
+    margin: 1rem 1rem 1rem 1rem ;
+    text-align: center;
+}
+
+.mdc-typography--headline4 {
+    margin: 1rem 1rem 1rem 1rem ;
+    text-align: center;
+}
+.mdc-typography--headline5 {
+    margin: 1rem 1rem 1rem 1rem ;
+}
+
+.mdc-typography--headline6 {
+    margin: 1rem 1rem 1rem 1rem ;
+    
+}
+
+.mdc-tab__text-label{
+
+    color: #EEEEEE !important;
+    
+}
+
+.mdc-typography--body1 {
+    margin: 1rem 1rem 1rem 1rem ;
+    
+}
+
+.mdc-typography--body2 {
+    margin: 1rem 1rem 1rem 1rem;
+    
+}
+
+.mdc-typography--overline {
+    margin: 1rem;
+}
+
+.mdc-list-item__secondary-text{
+}
+
+.italic {
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+}
+
+.spacemaker {
+    width: 100%;
+    margin: 1rem 0rem 1rem 0rem ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.spacemakeritem {
+    width: 10%
+}
+
+.spacemakeritem2 {
+    width: 20em;
+
+}
+
+
+.aboutimage{
+    /* display: inline-block; */
+    /* float: left;
+    margin: 20px; */
+    width: 100%;
+    margin: 1rem 0rem 0rem 0rem;
+    }
+
+.my-mdc-list-item__graphic{
+    width: 4rem;
+    margin: 1rem;
+    vertical-align: middle;
+}
+
+
+.mdc-list-item__primary-text{
+    color: #EEEEEE !important;
+
+}
+
+.mdc-list-item__secondary-text{
+    color: #EEEEEE !important;
+
+}
+
+.mdc-list-item{
+    margin: 1rem 1rem 1rem 1rem ;
+    text-decoration: none !important;
+}
+
+.c{
+    text-align: center;
+}
+
+.w{
+    color: #EEEEEE !important;;
+}
+
+.b{
+    color: #212121 !important;;
+}
+
+.link {
+    color: #EEEEEE;
+    text-decoration: none !important;
+}
+
+
+
+
+
+
+
+
+
+
