@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 <button  class="mdc-tab mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='conversation.html'">
                 <span class="mdc-tab__content">
-                    <span class="mdc-tab__text-label">Conversation</span>
+                    <span class="mdc-tab__text-label">Brainstorms</span>
                 </span>
                 <span id="programsindicator" class="mdc-tab-indicator mdc-tab-indicator--active">
                     <span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 </button>   
             
 
-                <button  class="mdc-tab mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='Nature.html'">
+                <button  class="mdc-tab mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='nature.html'">
                 <span class="mdc-tab__content">
                     <span class="mdc-tab__text-label">Nature Interactive</span>
                 </span>
