@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <button i class="mdc-tab mdc-tab2 mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='https://github.com/dixvisionaries/'">
             <span class="mdc-tab__content">
                 <span class="mdc-tab__text-label">    
-                <a href="https://github.com/dixvisionaries/">
+                <a href="https://github.com/dorotheadixdigital/">
                 <img src="images/github.png" alt="github" />
                 </a>
             </span>
