@@ -63,15 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <span class="mdc-tab__ripple"></span>
                 </button>  
 
-                <button  class="mdc-tab mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='resources.html'">
-                <span class="mdc-tab__content">
-                    <span class="mdc-tab__text-label">Resources</span>
-                </span>
-                <span id="programsindicator" class="mdc-tab-indicator mdc-tab-indicator--active">
-                    <span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
-                </span>
-                <span class="mdc-tab__ripple"></span>
-                </button>
+
 
   
 
@@ -132,11 +124,40 @@ document.addEventListener('DOMContentLoaded', function () {
             <span class="mdc-tab__ripple"></span>
             </button>
 
+
+            <button i class="mdc-tab mdc-tab2 mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='http://www.dorotheadixpark.org/'">
+            <span class="mdc-tab__content">
+                <span class="mdc-tab__text-label">    
+                <a href="http://www.dorotheadixpark.org/">
+                <img src="images/tree.png" alt="official park site" />
+                </a>
+            </span>
+            </span>
+            <span  class="mdc-tab-indicator mdc-tab-indicator--active">
+                <span class="mdc-tab-indicator__content "></span>
+            </span>
+            <span class="mdc-tab__ripple"></span>
+            </button>
+
             <button i class="mdc-tab mdc-tab2 mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='mailto:daughtersofdorotheadix@gmail.com/'">
             <span class="mdc-tab__content">
                 <span class="mdc-tab__text-label">    
                 <a href="mailto:daughtersofdorotheadix@gmail.com/">
                 <img src="images/mail.png" alt="mail" />
+                </a>
+            </span>
+            </span>
+            <span  class="mdc-tab-indicator mdc-tab-indicator--active">
+                <span class="mdc-tab-indicator__content "></span>
+            </span>
+            <span class="mdc-tab__ripple"></span>
+            </button>
+
+            <button i class="mdc-tab mdc-tab2 mdc-tab--active" role="tab" aria-selected="true" tabindex="0" onClick="location.href='involve.html'">
+            <span class="mdc-tab__content">
+                <span class="mdc-tab__text-label">    
+                <a href="involve.html">
+                <img src="images/map.png" alt="credits" />
                 </a>
             </span>
             </span>
