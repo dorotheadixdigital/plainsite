@@ -58,7 +58,6 @@
 }
 
 
-
 .mdc-card {
     background-color: #424242;
     z-index: 0;
@@ -186,7 +185,7 @@
 
 .link {
     color: #EEEEEE;
-    text-decoration: none !important;
+    /* text-decoration: none !important; */
 }
 
 .link2 {
